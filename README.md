@@ -8,7 +8,6 @@
 
 
 ### About Me
-### About Me
 - 🤖 Robotics & Automation
 - ⚙️ SolidWorks CAD Design
 - 🔌 PLC Programming
