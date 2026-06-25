@@ -8,8 +8,7 @@
 
 
 ### About Me
-- Cyber Security / CTF
-- Penetration Testing
+- ⚙️ SolidWorks CAD Design
 
 ---
 
