@@ -19,4 +19,4 @@
 ---
 
 ### 💬 Quote
-> "Stay low, keep hacking."
+
