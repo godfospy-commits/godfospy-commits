@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://tenor.com/th/view/spookiline-hi-anime-hi-vtuber-wave-gif-14171409237799644683](https://tenor.com/th/view/spookiline-hi-anime-hi-vtuber-wave-gif-14171409237799644683)" width="300"/>
+  <img src="[[https://tenor.com/th/view/spookiline-hi-anime-hi-vtuber-wave-gif-14171409237799644683](https://tenor.com/th/view/spookiline-hi-anime-hi-vtuber-wave-gif-14171409237799644683)](https://media.tenor.com/xKr1nlG8rgsAAAAj/spookiline-hi.gif)" width="300"/>
 </p>
 
 
