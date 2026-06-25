@@ -8,10 +8,12 @@
 
 
 ### About Me
+### About Me
+- 🤖 Robotics & Automation
 - ⚙️ SolidWorks CAD Design
-- 🤖 Arduino Projects
-- 🐍 Python Programming
 - 🔌 PLC Programming
+- 🐍 Python Development
+- 💡 Arduino Projects
 
 ---
 
