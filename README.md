@@ -11,7 +11,7 @@
 - ⚙️ SolidWorks CAD Design
 - 🤖 Arduino Projects
 - 🐍 Python Programming
-- - 🔌 PLC Programming
+- 🔌 PLC Programming
 
 ---
 
